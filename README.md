@@ -148,6 +148,6 @@ vite@5.0.2
 
 ## Screenshots
 
-![App Screenshot 1](screenshots/ss1.png)
-![App Screenshot 2](screenshots/ss2.png)
-![App Screenshot 3](screenshots/ss3.png)
+![App Screenshot 1](screenshots/SS1.png)
+![App Screenshot 2](screenshots/SS2.png)
+![App Screenshot 3](screenshots/SS3.png)

@@ -146,6 +146,8 @@ vite@5.0.2
 - POS tagging to identify meaningful nouns
 - Dynamic font sizing based on relevance scores
 
-## License
+## Screenshots
 
-MIT
+![App Screenshot 1](screenshots/ss1.png)
+![App Screenshot 2](screenshots/ss2.png)
+![App Screenshot 3](screenshots/ss3.png)
